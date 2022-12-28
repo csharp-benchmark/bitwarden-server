@@ -3,6 +3,7 @@
   <PropertyGroup>
     <UserSecretsId>bitwarden-Events</UserSecretsId>
     <MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
+    <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
