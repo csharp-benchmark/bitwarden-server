@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Sustainsys.Saml2.AspNetCore2" Version="2.9.0" />
+    <PackageReference Include="Sustainsys.Saml2.AspNetCore2" Version="2.9.2" />
   </ItemGroup>
 
   <ItemGroup>
