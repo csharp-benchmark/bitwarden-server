@@ -1,4 +1,4 @@
-FROM nginx:stable
+FROM nginx:1.29.3
 
 LABEL com.bitwarden.product="bitwarden"
 
